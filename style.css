@@ -12,6 +12,9 @@ QUOTE TEXT 36PX LIGHT ITALIC 1F2937
 * {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+body {
+    margin:0;
+}
 .main {
     display:flex;
     flex-direction:column;
